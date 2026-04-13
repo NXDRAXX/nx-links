@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-04-09T08:01:23.382Z",
+  "runId": "24178776923",
+  "runNumber": 75,
+  "repository": "LightnigFast/Nexus-links",
+  "actionsUrl": "https://github.com/LightnigFast/Nexus-links/actions/runs/24178776923",
+  "sources": [
+    {
+      "key": "steamrip",
+      "name": "SteamRip",
+      "file": "steamrip.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 1916,
+      "dataUpdatedAt": "2026-04-09T08:01:23.427Z"
+    },
+    {
+      "key": "fitgirl",
+      "name": "FitGirl",
+      "file": "fitgirl.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 6593,
+      "dataUpdatedAt": "2026-04-09T08:01:23.475Z"
+    },
+    {
+      "key": "freegog",
+      "name": "FreeGOG",
+      "file": "freegog.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 5352,
+      "dataUpdatedAt": "2026-04-09T08:01:23.492Z"
+    },
+    {
+      "key": "onlinefix",
+      "name": "OnlineFix",
+      "file": "onlinefix.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 2244,
+      "dataUpdatedAt": "2026-04-09T08:01:23.496Z"
+    },
+    {
+      "key": "onlinefix-fixes",
+      "name": "OnlineFix Fixes",
+      "file": "onlinefix-fixes.json",
+      "updatedThisRun": false,
+      "status": "failed",
+      "entries": 0,
+      "dataUpdatedAt": null
+    },
+    {
+      "key": "iggames",
+      "name": "IGGames",
+      "file": "iggames.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 892,
+      "dataUpdatedAt": "2026-04-09T08:01:23.503Z"
+    },
+    {
+      "key": "rexagames",
+      "name": "RexaGames",
+      "file": "rexagames.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 3025,
+      "dataUpdatedAt": "2026-04-09T08:01:23.508Z"
+    }
+  ],
+  "summary": {
+    "healthy": 6,
+    "stale": 0,
+    "failed": 1
+  }
+}
