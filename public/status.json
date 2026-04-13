@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-13T09:20:13.892Z",
-  "runId": "24335231689",
-  "runNumber": 1,
+  "generatedAt": "2026-04-13T16:54:19.328Z",
+  "runId": "24355157190",
+  "runNumber": 2,
   "repository": "NXDRAXX/nx-links",
-  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24335231689",
+  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24355157190",
   "sources": [
     {
       "key": "steamrip",
@@ -12,7 +12,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 1922,
-      "dataUpdatedAt": "2026-04-13T09:20:13.902Z"
+      "dataUpdatedAt": "2026-04-13T16:54:19.471Z"
     },
     {
       "key": "fitgirl",
@@ -20,8 +20,8 @@
       "file": "fitgirl.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 6603,
-      "dataUpdatedAt": "2026-04-13T09:20:13.942Z"
+      "entries": 6605,
+      "dataUpdatedAt": "2026-04-13T16:54:19.524Z"
     },
     {
       "key": "freegog",
@@ -30,7 +30,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 5358,
-      "dataUpdatedAt": "2026-04-13T09:20:13.956Z"
+      "dataUpdatedAt": "2026-04-13T16:54:19.544Z"
     },
     {
       "key": "onlinefix",
@@ -39,7 +39,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 2246,
-      "dataUpdatedAt": "2026-04-13T09:20:13.960Z"
+      "dataUpdatedAt": "2026-04-13T16:54:19.550Z"
     },
     {
       "key": "onlinefix-fixes",
@@ -56,8 +56,8 @@
       "file": "iggames.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 957,
-      "dataUpdatedAt": "2026-04-13T09:20:13.967Z"
+      "entries": 978,
+      "dataUpdatedAt": "2026-04-13T16:54:19.559Z"
     },
     {
       "key": "rexagames",
@@ -66,7 +66,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3025,
-      "dataUpdatedAt": "2026-04-13T09:20:13.972Z"
+      "dataUpdatedAt": "2026-04-13T16:54:19.565Z"
     }
   ],
   "summary": {
