@@ -2,7 +2,7 @@
   "name": "FreeGOG",
   "downloads": [
     {
-      "title": "#DRIVE Rally (1.3.21.0)",
+      "title": "#DRIVE Rally v1.3.24.0",
       "uploadDate": "2024-09-26T00:13:56+00:00",
       "fileSize": "1.13 GB",
       "uris": [
@@ -11,7 +11,8 @@
         "magnet:?xt=urn:btih:E4305859395531E91A0CECBAA7B71B9C6CED6430&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] #Drive Rally [L] [RUS + ENG + 13 / ENG] (2025, Simulation) (1.0.0.3) [GOG]",
         "magnet:?xt=urn:btih:32CE4A28A2BA9B0CDD878F747C8A576124BE0B41&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] #Drive Rally [L] [RUS + ENG + 13 / ENG] (2025, Simulation) (1.3.8.0) [GOG]",
         "magnet:?xt=urn:btih:59014118E231ACF65BEFB4DD8BF7F86F52CB51CA&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] #Drive Rally [L] [RUS + ENG + 13 / ENG] (2025, Simulation) (1.3.13.0) [GOG]",
-        "magnet:?xt=urn:btih:F08F289ECDD1BD47A9ECF8543BED7A983A380420&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] #Drive Rally [L] [RUS + ENG + 13 / ENG] (2025, Simulation) (1.3.21.0) [GOG]"
+        "magnet:?xt=urn:btih:F08F289ECDD1BD47A9ECF8543BED7A983A380420&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] #Drive Rally [L] [RUS + ENG + 13 / ENG] (2025, Simulation) (1.3.21.0) [GOG]",
+        "magnet:?xt=urn:btih:A9C75A6A1556073F17923A64FB7BE55FEBDDDEF6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] #Drive Rally [L] [RUS + ENG + 13 / ENG] (2025, Simulation) (1.3.24.0) [GOG]"
       ]
     },
     {
@@ -3663,7 +3664,7 @@
       ]
     },
     {
-      "title": "Banquet for Fools v1.03",
+      "title": "Banquet for Fools v1.051",
       "uploadDate": "2025-01-23T04:08:04+00:00",
       "fileSize": "20.69 GB",
       "uris": [
@@ -3677,7 +3678,8 @@
         "magnet:?xt=urn:btih:FC50083E0ACB450029AB576EB92AD21F47A5CC65&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Banquet for Fools [L] [ENG / ENG] (2026, RPG) (1.001) [GOG]",
         "magnet:?xt=urn:btih:5D106E9BB33FB348BBFB26EFAB587D8248C94AB5&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Banquet for Fools [L] [ENG / ENG] (2026, RPG) (1.003) [GOG]",
         "magnet:?xt=urn:btih:4AE4355756AA14EEE89D03636C0AD06ED5CC4AB5&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Banquet for Fools [L] [ENG / ENG] (2026, RPG) (1.023) [GOG]",
-        "magnet:?xt=urn:btih:A60501818782DF3393D2EE67217495A6DA926AF2&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Banquet for Fools [L] [ENG / ENG] (2026, RPG) (1.03) [GOG]"
+        "magnet:?xt=urn:btih:A60501818782DF3393D2EE67217495A6DA926AF2&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Banquet for Fools [L] [ENG / ENG] (2026, RPG) (1.03) [GOG]",
+        "magnet:?xt=urn:btih:873E652615358154295EC5FF7587706A5CB59B84&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Banquet for Fools [L] [ENG / ENG] (2026, RPG) (1.051) [GOG]"
       ]
     },
     {
@@ -8947,6 +8949,14 @@
       ]
     },
     {
+      "title": "Cthulhu: The Cosmic Abyss",
+      "uploadDate": "2026-04-17T07:17:51+00:00",
+      "fileSize": "14.56 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:FBE0998C3073FF47D26770EDE5AE40FE950503F1&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Cthulhu: The Cosmic Abyss [L] [RUS + ENG + 8 / ENG] (2026, Adventure) (pr1.8326.29819 + 2 DLC) [GOG]"
+      ]
+    },
+    {
       "title": "Ctrl Alt Deal",
       "uploadDate": "2025-07-24T01:36:23+00:00",
       "fileSize": "1.40 GB",
@@ -12145,14 +12155,15 @@
       ]
     },
     {
-      "title": "Dungeon Tycoon v1.1.2",
+      "title": "Dungeon Tycoon v1.3.3",
       "uploadDate": "2024-09-26T12:30:02+00:00",
-      "fileSize": "397.6 MB",
+      "fileSize": "312.6 MB",
       "uris": [
         "magnet:?xt=urn:btih:A3E024E8DCDAF9CA1A702D1BE83B15BCFFC1EEC0&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dungeon Tycoon [L] [RUS + ENG + 12] (2024, RTS) (1.0.6) [GOG]",
         "magnet:?xt=urn:btih:45C4818592B6F456485C661E31D88545BBC09ED5&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dungeon Tycoon [L] [RUS + ENG + 12] (2024, RTS) (1.0.7) [GOG]",
         "magnet:?xt=urn:btih:565AF55A232A6447ECD6E1742F11FE53258F6437&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dungeon Tycoon [L] [RUS + ENG + 12] (2024, RTS) (1.0.8) [GOG]",
-        "magnet:?xt=urn:btih:B8F737BA2F6A6370ABB0B59EEA0CC7C58C06F4A6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dungeon Tycoon [L] [RUS + ENG + 12] (2024, RTS) (1.1.2) [GOG]"
+        "magnet:?xt=urn:btih:B8F737BA2F6A6370ABB0B59EEA0CC7C58C06F4A6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dungeon Tycoon [L] [RUS + ENG + 12] (2024, RTS) (1.1.2) [GOG]",
+        "magnet:?xt=urn:btih:275B181F1CDF42A6F47B6E19D2BE1950F367F8B0&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dungeon Tycoon [L] [RUS + ENG + 12] (2024, RTS) (1.3.3) [GOG]"
       ]
     },
     {
@@ -17628,12 +17639,13 @@
       ]
     },
     {
-      "title": "Hearthlands v1.3.0",
+      "title": "Hearthlands v1.3.1",
       "uploadDate": "2020-10-18T08:05:36+00:00",
-      "fileSize": "309.8 MB",
+      "fileSize": "320.1 MB",
       "uris": [
         "magnet:?xt=urn:btih:00059699A7CA0A27D58A02D475C3AB01D7EAB533&dn=Hearthlands [L] [RUS + ENG + 4 / ENG] (2017) (1.2.1) [GOG]",
-        "magnet:?xt=urn:btih:9B9848A4F86FF6D7CD6B136A05543AC47CE3CDD5&dn=Hearthlands [L] [RUS + ENG + 4 / ENG] (2017) (1.3.0) [GOG]"
+        "magnet:?xt=urn:btih:9B9848A4F86FF6D7CD6B136A05543AC47CE3CDD5&dn=Hearthlands [L] [RUS + ENG + 4 / ENG] (2017) (1.3.0) [GOG]",
+        "magnet:?xt=urn:btih:01D89C476EE8C77151A5917F18B76E5BD01326CE&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Hearthlands [L] [RUS + ENG + 4 / ENG] (2017, RTS) (1.3.1) [GOG]"
       ]
     },
     {
@@ -18039,6 +18051,14 @@
       "fileSize": "321 MB",
       "uris": [
         "magnet:?xt=urn:btih:350341E087DC7AFA19FAC66E0FE62E2145D6976D&dn=Heroes of Hammerwatch [L] [ENG + 2] (2018) (104 + 3 DLC) [GOG]"
+      ]
+    },
+    {
+      "title": "Heroes of Loot",
+      "uploadDate": "2026-04-17T06:53:39+00:00",
+      "fileSize": "52 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:D638A8E8CD0EB3C14877AA47408812024DD90E78&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Heroes of Loot [L] [ENG] (2015, RPG) (3.3.0) [GOG]"
       ]
     },
     {
@@ -25935,9 +25955,9 @@
       ]
     },
     {
-      "title": "Mount & Blade II: Bannerlord (1.3.15.109797 +3DLC)",
+      "title": "Mount & Blade II: Bannerlord v1.3.15.110062+3DLC",
       "uploadDate": "2020-10-08T01:14:10+00:00",
-      "fileSize": "78.7 GB",
+      "fileSize": "78.71 GB",
       "uris": [
         "magnet:?xt=urn:btih:58469326531A3CC6B51986CA56388BBF4266303D&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.2.10.44489 + 1 DLC) [GOG]",
         "magnet:?xt=urn:btih:50C0259F395B2A0AAF745138ECA2FC24C53C5C42&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.2.11.45697 + 1 DLC) [GOG]",
@@ -25946,7 +25966,8 @@
         "magnet:?xt=urn:btih:13A41F80494DDC15CD28862800322B22BEF8390A&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.3.13.105726 + 1 DLC) [GOG]",
         "magnet:?xt=urn:btih:FED5897A77E141692C250DFC99DF0A91C68DCE59&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.3.13.106033 + 2 DLC) [GOG]",
         "magnet:?xt=urn:btih:8DC8F10DC5B0503BC317011A85937E105BDD2BA3&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.3.14.107738 + 3 DLC) [GOG]",
-        "magnet:?xt=urn:btih:A8393F88B59E2ADD28838E6D37D9077DDE0E3220&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.3.15.109797 + 3 DLC) [GOG]"
+        "magnet:?xt=urn:btih:A8393F88B59E2ADD28838E6D37D9077DDE0E3220&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.3.15.109797 + 3 DLC) [GOG]",
+        "magnet:?xt=urn:btih:4A8F94A20317E5E11E2ECE12393A541AE32F11CC&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Mount and Blade II (2): Bannerlord [L] [RUS + ENG + 10 / ENG] (2022, RTS) (1.3.15.110062 + 3 DLC) [GOG]"
       ]
     },
     {
@@ -26971,14 +26992,15 @@
       ]
     },
     {
-      "title": "Nightmare Reaper v2.32.5",
+      "title": "Nightmare Reaper v3.8",
       "uploadDate": "2020-12-08T11:09:27+00:00",
-      "fileSize": "898 MB",
+      "fileSize": "973 MB",
       "uris": [
         "magnet:?xt=urn:btih:fd22232a6b89f4cdbc8f1bb7a35fff185e55e218",
         "magnet:?xt=urn:btih:4484542B740CC1563F796982DDC29548D7FDFA1D&dn=Nightmare.Reaper.v2.31.6-GOG&tr=udp://tracker.trackerfix.com:81/announce&tr=udp://9.rarbg.me:2820/announce&tr=udp://9.rarbg.to:2810/announce&tr=udp://tracker.slowcheetah.org:14770/announce&tr=udp://tracker.tallpenguin.org:15760/announce",
         "magnet:?xt=urn:btih:3ccd63a1118c9154807086d5e471e9647ae9e04e&dn=Nightmare_Reaper_2.32.4_(64505)_win_gog",
-        "magnet:?xt=urn:btih:8a7f2ff119342956b20daa9c96101c5e89ab9dd2&dn=Nightmare_Reaper_2.32.5_(64861)_win_gog&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=https://opentracker.i2p.rocks:443/announce&tr=udp://tracker.openbittorrent.com:6969/announce&tr=http://tracker.openbittorrent.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://9.rarbg.com:2810/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.bitsearch.to:1337/announce&tr=udp://explodie.org:6969/announce&tr=http://tracker1.bt.moack.co.kr:80/announce&tr=http://open.acgnxtracker.com:80/announce&tr=udp://tracker.altrosky.nl:6969/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://movies.zsw.ca:6969/announce&tr=https://tracker.tamersunion.org:443/announce&tr=https://tr.burnabyhighstar.com:443/announce"
+        "magnet:?xt=urn:btih:8a7f2ff119342956b20daa9c96101c5e89ab9dd2&dn=Nightmare_Reaper_2.32.5_(64861)_win_gog&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=https://opentracker.i2p.rocks:443/announce&tr=udp://tracker.openbittorrent.com:6969/announce&tr=http://tracker.openbittorrent.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://9.rarbg.com:2810/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.bitsearch.to:1337/announce&tr=udp://explodie.org:6969/announce&tr=http://tracker1.bt.moack.co.kr:80/announce&tr=http://open.acgnxtracker.com:80/announce&tr=udp://tracker.altrosky.nl:6969/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://movies.zsw.ca:6969/announce&tr=https://tracker.tamersunion.org:443/announce&tr=https://tr.burnabyhighstar.com:443/announce",
+        "magnet:?xt=urn:btih:14A49B22C03563E8CEDF03A9F6AC5F228CEE7B11&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Nightmare Reaper [L] [ENG / ENG] (2022, FPS) (3.8) [GOG]"
       ]
     },
     {
@@ -28076,7 +28098,7 @@
       ]
     },
     {
-      "title": "OpenTTD v15.2",
+      "title": "OpenTTD v15.3",
       "uploadDate": "2021-10-09T01:26:15+00:00",
       "fileSize": "39.2 MB",
       "uris": [
@@ -28085,7 +28107,8 @@
         "magnet:?xt=urn:btih:433F5A333CBCBAE89E32F79F07736BF7BD51FEB7&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] OpenTTD [L] [RUS + ENG + 57] (2004, RTS) (14.0) [GOG]",
         "magnet:?xt=urn:btih:9C5D03A3AE1C5D8B0993C019652549D7C521177D&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] OpenTTD [L] [RUS + ENG + 57] (2004, RTS) (14.1) [GOG]",
         "magnet:?xt=urn:btih:7553B4E3CE7AA95C674318964A89C3883214E385&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] OpenTTD [L] [RUS + ENG + 57] (2004, RTS) (15.0) [GOG]",
-        "magnet:?xt=urn:btih:9BA5F4EBB11217793A50F0CD678D8F2324EF4339&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] OpenTTD [L] [RUS + ENG + 57] (2004, RTS) (15.2) [GOG]"
+        "magnet:?xt=urn:btih:9BA5F4EBB11217793A50F0CD678D8F2324EF4339&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] OpenTTD [L] [RUS + ENG + 57] (2004, RTS) (15.2) [GOG]",
+        "magnet:?xt=urn:btih:346A3A08A5474F26133658342500FD02B955D325&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] OpenTTD [L] [RUS + ENG + 57] (2004, RTS) (15.3) [GOG]"
       ]
     },
     {
@@ -37660,14 +37683,15 @@
       ]
     },
     {
-      "title": "StarVaders v2.0.0a+DLC",
+      "title": "StarVaders v2.0.5+DLC",
       "uploadDate": "2025-05-11T05:01:05+00:00",
-      "fileSize": "750.7 MB",
+      "fileSize": "750.9 MB",
       "uris": [
         "magnet:?xt=urn:btih:8BBD6D906CB8BE14FC7C6EDEF4C537BC2D08F553&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] StarVaders [L] [RUS + ENG + 8] (2025, TBS, Roguelike Deckbuilder) (1.0.7) [GOG]",
         "magnet:?xt=urn:btih:97B7D47CD1900F14A7489E6A40B356A91BC7E30C&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] StarVaders [L] [RUS + ENG + 8] (2025, TBS, Roguelike Deckbuilder) (1.1.0) [GOG]",
         "magnet:?xt=urn:btih:05BFD2D9ADBBBB6E50D83D83D9C8DA9747973909&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] StarVaders [L] [RUS + ENG + 8] (2025, TBS, Roguelike Deckbuilder) (1.1.1 + 1 DLC) [GOG]",
-        "magnet:?xt=urn:btih:6634B705127E5A95D0FC324D94909249504EB9F3&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] StarVaders [L] [RUS + ENG + 8] (2025, TBS, Roguelike Deckbuilder) (2.0.0a + 1 DLC) [GOG]"
+        "magnet:?xt=urn:btih:6634B705127E5A95D0FC324D94909249504EB9F3&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] StarVaders [L] [RUS + ENG + 8] (2025, TBS, Roguelike Deckbuilder) (2.0.0a + 1 DLC) [GOG]",
+        "magnet:?xt=urn:btih:B0258A315E2D1642E7AA2E7AC1755E90167FE330&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] StarVaders [L] [RUS + ENG + 8] (2025, TBS, Roguelike Deckbuilder) (2.0.5 + 1 DLC) [GOG]"
       ]
     },
     {
@@ -37863,7 +37887,7 @@
       ]
     },
     {
-      "title": "Stellar Tactics v0.907",
+      "title": "Stellar Tactics v1.0",
       "uploadDate": "2020-04-22T13:29:35+00:00",
       "fileSize": "8.85 GB",
       "uris": [
@@ -37883,7 +37907,8 @@
         "magnet:?xt=urn:btih:589810ddd79bf532216bf613069aca02720ad50b&dn=Stellar_Tactics_0.724_(70336)_win_dev_gog",
         "magnet:?xt=urn:btih:C12543EBF49DF4FFAF3809E5647FF757F201AFF9&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] [В разработке] Stellar Tactics [L] [RUS + ENG + 3 / ENG] (2016, RPG) (0.826) [GOG]",
         "magnet:?xt=urn:btih:5D405F76F0C47093A77A9C2179A33B8A89B62FE6&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] [В разработке] Stellar Tactics [L] [RUS + ENG + 3 / ENG] (2016, RPG) (0.881) [GOG]",
-        "magnet:?xt=urn:btih:4A5F2AA3AAF0ADEC69ADD468CD2E20CEBB869CC6&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] [В разработке] Stellar Tactics [L] [RUS + ENG + 3 / ENG] (2016, RPG) (0.907) [GOG]"
+        "magnet:?xt=urn:btih:4A5F2AA3AAF0ADEC69ADD468CD2E20CEBB869CC6&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] [В разработке] Stellar Tactics [L] [RUS + ENG + 3 / ENG] (2016, RPG) (0.907) [GOG]",
+        "magnet:?xt=urn:btih:C8AF5EB44F872C6F30F2DC494D1D2DE472709548&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] Stellar Tactics [L] [RUS + ENG + 3 / ENG] (2026, RPG) (1.0) [GOG]"
       ]
     },
     {
@@ -37896,9 +37921,9 @@
       ]
     },
     {
-      "title": "Stellaris v4.3.3.2+allDLCs",
+      "title": "Stellaris v4.3.4+30DLC",
       "uploadDate": "2019-04-30T08:24:46+00:00",
-      "fileSize": "21.95 GB",
+      "fileSize": "21.99 GB",
       "uris": [
         "magnet:?xt=urn:btih:17e72b8eec5f03e5f048435d810dc5f1dd808a9b&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.0.13 + DLC) [GOG]&tr=http://bt3.t-ru.org/ann?magnet",
         "magnet:?xt=urn:btih:D928A7234FD0A45496444B72F619D7EB219A24A0&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.0.14.1 + DLC) [GOG]",
@@ -37913,7 +37938,8 @@
         "magnet:?xt=urn:btih:13B5A2BC3EDC3503EA93EB90EA861C9C1E6F9CA1&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.2.2 + 29 DLC) [GOG]",
         "magnet:?xt=urn:btih:BD71BDE8907B49FC5E5FE47A3F8330A997FC9CB1&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.2.3 + 29 DLC) [GOG]",
         "magnet:?xt=urn:btih:D33FD1E11E719A32FE0CD1D0047D4C7CA634E14E&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.2.4 + 29 DLC) [GOG]",
-        "magnet:?xt=urn:btih:F74408130E714E65DF3FAEF7394BB9BE65A6F491&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.3.3.2 + 30 DLC) [GOG]"
+        "magnet:?xt=urn:btih:F74408130E714E65DF3FAEF7394BB9BE65A6F491&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.3.3.2 + 30 DLC) [GOG]",
+        "magnet:?xt=urn:btih:0E6E15A0E73B97A8C4B0119272A228E8479B8F5A&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Stellaris [L] [RUS + ENG + 7] (2016, RTS) (4.3.4 + 30 DLC) [GOG]"
       ]
     },
     {
@@ -40011,7 +40037,7 @@
       ]
     },
     {
-      "title": "Terraforming Mars v2.11.4.3385 +DLCs",
+      "title": "Terraforming Mars v2.11.6.3444+DLCs",
       "uploadDate": "2021-05-03T06:42:00+00:00",
       "fileSize": null,
       "uris": [
@@ -40021,7 +40047,8 @@
         "magnet:?xt=urn:btih:45A9F8C365AC622D1107B84E6EEFB9C3678F7C4A&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Terraforming Mars [L] [ENG + 5] (2018, TBS) (2.10.3.3080 + 5 DLC) [GOG]",
         "magnet:?xt=urn:btih:21E6796247A4D4D8A1186282310450EA445AC056&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Terraforming Mars [L] [ENG + 5] (2018, TBS) (2.11.0.3271 + 6 DLC) [GOG]",
         "magnet:?xt=urn:btih:4C67D0683DF409CB5ABE95AC785CC7A7C004CC85&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Terraforming Mars [L] [ENG + 5] (2018, TBS) (2.11.2.3305 + 6 DLC) [GOG]",
-        "magnet:?xt=urn:btih:B2F97461CC9CE4E2388E3A373B06E6B2FA8C6CEF&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Terraforming Mars [L] [ENG + 5] (2018, TBS) (2.11.4.3385 + 6 DLC) [GOG]"
+        "magnet:?xt=urn:btih:B2F97461CC9CE4E2388E3A373B06E6B2FA8C6CEF&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Terraforming Mars [L] [ENG + 5] (2018, TBS) (2.11.4.3385 + 6 DLC) [GOG]",
+        "magnet:?xt=urn:btih:C61F356592760FC6C48F4D268E7E7B46BF5F5FEA&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] Terraforming Mars [L] [ENG + 5] (2018, TBS) (2.11.6.3444 + 6 DLC) [GOG]"
       ]
     },
     {
@@ -40613,9 +40640,9 @@
       ]
     },
     {
-      "title": "The Colonists v1.9.23+DLC",
+      "title": "The Colonists v1.9.24.2+DLC",
       "uploadDate": "2019-06-28T10:16:06+00:00",
-      "fileSize": "377.1 MB",
+      "fileSize": "375.7 MB",
       "uris": [
         "magnet:?xt=urn:btih:7B2BC9E068A2F51834973B05BC6A22E441700BEB&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.17.1 + DLC) [GOG]",
         "magnet:?xt=urn:btih:9E02DA943BD4AC6E5EC0226AE55EFEE28F4072BC&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.18.2 + DLC) [GOG]",
@@ -40624,7 +40651,8 @@
         "magnet:?xt=urn:btih:276115A240AB1A355A292A53E8FA1B4095B1F47A&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.20.1 + DLC) [GOG]",
         "magnet:?xt=urn:btih:89F7838DCA653C5CB89D8D1F551BDA120CA7C0C7&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.21.2 + DLC) [GOG]",
         "magnet:?xt=urn:btih:37AFFB2C0914B127F827E2BF66B31FDFCB337A7E&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.22 + DLC) [GOG]",
-        "magnet:?xt=urn:btih:AF48E91E3FFF9DD150C754B8EB042DE094783647&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.23 + DLC) [GOG]"
+        "magnet:?xt=urn:btih:AF48E91E3FFF9DD150C754B8EB042DE094783647&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.23 + DLC) [GOG]",
+        "magnet:?xt=urn:btih:6D074D0CE84D10290354FADA73E4DE01599CF5F8&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Colonists [L] [RUS + ENG + 6] (2018, RTS) (1.9.24.2 + DLC) [GOG]"
       ]
     },
     {
@@ -42129,16 +42157,17 @@
       ]
     },
     {
-      "title": "The Long Dark (2.51.173364.173361 +4DLC)",
+      "title": "The Long Dark v2.54.180535.180559+4DLC",
       "uploadDate": "2016-02-07T15:01:41+00:00",
-      "fileSize": "11.98 GB",
+      "fileSize": "17.07 GB",
       "uris": [
         "magnet:?xt=urn:btih:62941E6EF4130D7295032E00E03E30176BDC95EA&dn=The Long Dark [L] [RUS + ENG + 8 / ENG] (2017) (1.98) [GOG]",
         "magnet:?xt=urn:btih:b339b85e28c77a9117c2b0ec87dda0aebf4a023c&tr=http://bt02.nnm-club.cc:2710/00d44f740b7b4522bdf65bd6d9828c44/announce&tr=http://bt02.nnm-club.cc:2710/00d44f740b7b4522bdf65bd6d9828c44/announce",
         "magnet:?xt=urn:btih:64818c0fa3bcf22973ee0fc683a03e0359cdb866&tr=http://bt02.nnm-club.cc:2710/00d44f7437dea6ae6d59923c417d8fc1/announce&tr=http://bt02.nnm-club.cc:2710/00d44f7437dea6ae6d59923c417d8fc1/announce",
         "magnet:?xt=urn:btih:5185f440e0a14ef1144ea5304a9e12536ae00a13",
         "magnet:?xt=urn:btih:5195F7525D4B3E26738BBF6E744FF9D3D5CFE31B&dn=The_Long_Dark_2.02_(58652)_win_gog",
-        "magnet:?xt=urn:btih:02A3809AD3DF1A076676DC4F2A5FD27DE5732369&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Long Dark [L] [RUS + ENG + 17 / ENG] (2017, Simulation) (2.51.173364.173361 + 4 DLC) [GOG]"
+        "magnet:?xt=urn:btih:02A3809AD3DF1A076676DC4F2A5FD27DE5732369&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Long Dark [L] [RUS + ENG + 17 / ENG] (2017, Simulation) (2.51.173364.173361 + 4 DLC) [GOG]",
+        "magnet:?xt=urn:btih:F9275E468774C527065512658A79BABE7F2197A2&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] The Long Dark [L] [RUS + ENG + 17 / ENG] (2017, Simulation) (2.54.180535.180559 + 4 DLC) [GOG]"
       ]
     },
     {
@@ -42558,7 +42587,7 @@
       ]
     },
     {
-      "title": "The Planet Crafter v1.618+2DLC",
+      "title": "The Planet Crafter v2.007+2DLC",
       "uploadDate": "2022-05-21T00:52:06+00:00",
       "fileSize": null,
       "uris": [
@@ -42567,7 +42596,8 @@
         "magnet:?xt=urn:btih:801AE1A1BFC53D803E9B0E2B297E20BC16FE2E62&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Planet Crafter [L] [RUS + ENG + 8 / ENG] (2024, Simulation) (1.608 + 2 DLC) [GOG]",
         "magnet:?xt=urn:btih:E7E7C2DAAA5C36F7574A13BB0DD294B7AD397A51&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Planet Crafter [L] [RUS + ENG + 8 / ENG] (2024, Simulation) (1.609 + 2 DLC) [GOG]",
         "magnet:?xt=urn:btih:DF32B44D6ABC798625D720E3F6F24E6B8865982C&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Planet Crafter [L] [RUS + ENG + 8 / ENG] (2024, Simulation) (1.614 + 2 DLC) [GOG]",
-        "magnet:?xt=urn:btih:3A5E87585542961EB6DB7DA1C3E288860F12033A&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Planet Crafter [L] [RUS + ENG + 8 / ENG] (2024, Simulation) (1.618 + 2 DLC) [GOG]"
+        "magnet:?xt=urn:btih:3A5E87585542961EB6DB7DA1C3E288860F12033A&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Planet Crafter [L] [RUS + ENG + 8 / ENG] (2024, Simulation) (1.618 + 2 DLC) [GOG]",
+        "magnet:?xt=urn:btih:DE2225749F54DDA36813A277F70F0AF1BB48CB19&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Planet Crafter [L] [RUS + ENG + 8 / ENG] (2024, Simulation) (2.007 + 2 DLC) [GOG]"
       ]
     },
     {
@@ -42656,9 +42686,9 @@
       ]
     },
     {
-      "title": "The Riftbreaker (v2.0.56960 +3DLC)",
+      "title": "The Riftbreaker v2.0.58485+3DLC",
       "uploadDate": "2021-10-17T00:11:00+00:00",
-      "fileSize": "13.43 GB",
+      "fileSize": "13.83 GB",
       "uris": [
         "magnet:?xt=urn:btih:C11B2AFA573AB5E34BD627E314C32646B29045E1&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (1.47299 + 3 DLC) [GOG]",
         "magnet:?xt=urn:btih:86CFC100325FBA57F556232C5EEA5855086D924A&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (1.47413 + 3 DLC) [GOG]",
@@ -42669,7 +42699,8 @@
         "magnet:?xt=urn:btih:6B6143F7CB8E268400F95BBF2C79BC95899E323E&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (2.0.55152 + 3 DLC) [GOG]",
         "magnet:?xt=urn:btih:B932123AD0AD167622A61F6653D3D40984F38B8B&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (2.0.55174 + 3 DLC) [GOG]",
         "magnet:?xt=urn:btih:CDCDE526BB92A68E287BD29085512D188CEDB71B&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (2.0.55936 + 3 DLC) [GOG]",
-        "magnet:?xt=urn:btih:3D3E4595C381FF9B2450EDBF6B67D72651D37D1E&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (2.0.56960 + 3 DLC) [GOG]"
+        "magnet:?xt=urn:btih:3D3E4595C381FF9B2450EDBF6B67D72651D37D1E&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (2.0.56960 + 3 DLC) [GOG]",
+        "magnet:?xt=urn:btih:7D775848DCC86BA7C0611C8E773DD46C7B0ADC25&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] The Riftbreaker [L] [RUS + ENG + 8 / ENG] (2021, RTS) (2.0.58485 + 3 DLC) [GOG]"
       ]
     },
     {
@@ -43975,9 +44006,9 @@
       ]
     },
     {
-      "title": "Timberborn v1.0.12.6+DLC",
+      "title": "Timberborn v1.0.12.10+DLC",
       "uploadDate": "2021-09-16T10:13:34+00:00",
-      "fileSize": "1.6 GB",
+      "fileSize": "1.59 GB",
       "uris": [
         "magnet:?xt=urn:btih:0548B890A40CEB6D43D891F4ED672363E034CCB1&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] [В разработке] Timberborn [L] [RUS + ENG] (2021, RTS) (0.7.9.3) [GOG]",
         "magnet:?xt=urn:btih:3E748E84AECC2E691BC37CB36F08FFEF6338D5C6&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] [В разработке] Timberborn [L] [RUS + ENG + 10] (2021, RTS) (0.7.9.3 + 1 DLC) [GOG]",
@@ -43985,7 +44016,8 @@
         "magnet:?xt=urn:btih:E1DD9B9B24041C57E9BAD11DE6EA102A3E748BEB&tr=http://bt4.t-ru.org/ann?magnet&dn=[DL] [В разработке] Timberborn [L] [RUS + ENG + 10] (2021, RTS) (0.7.11.0 + 1 DLC) [GOG]",
         "magnet:?xt=urn:btih:C76873D7185AF6A05133ADA609E04896B70BA0ED&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] 海狸浮生记 Timberborn [L] [RUS + ENG + 13] (2021, 2026, RTS) (1.0.12.3 + 1 DLC) [GOG]",
         "magnet:?xt=urn:btih:A2479E4C230E413EA7F984F5DBCA81994547252D&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Timberborn / 海狸浮生记 [L] [RUS + ENG + 13] (2021, 2026, RTS) (1.0.12.5 + 1 DLC) [GOG]",
-        "magnet:?xt=urn:btih:ED0980663158A281E6079B9E4BFD3BDB692740F0&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Timberborn / 海狸浮生记 [L] [RUS + ENG + 13] (2021, 2026, RTS) (1.0.12.6 + 1 DLC) [GOG]"
+        "magnet:?xt=urn:btih:ED0980663158A281E6079B9E4BFD3BDB692740F0&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Timberborn / 海狸浮生记 [L] [RUS + ENG + 13] (2021, 2026, RTS) (1.0.12.6 + 1 DLC) [GOG]",
+        "magnet:?xt=urn:btih:915EAD98EBB7061038F4694AFB677DC4C760BBC9&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Timberborn / 海狸浮生记 [L] [RUS + ENG + 13] (2021, 2026, RTS) (1.0.12.10 + 1 DLC) [GOG]"
       ]
     },
     {
@@ -45317,7 +45349,7 @@
       ]
     },
     {
-      "title": "Tunguska: The Visitation (1.97 +6DLC)",
+      "title": "Tunguska: The Visitation v1.97.3+6DLC",
       "uploadDate": "2021-07-28T05:00:42+00:00",
       "fileSize": "2.76 GB",
       "uris": [
@@ -45327,7 +45359,8 @@
         "magnet:?xt=urn:btih:7A5CF3B76FAC496BB070FD622E227305AC6BA81F&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Tunguska: The Visitation - Enhanced Edition / Тунгуска: Посещение [L] [RUS + ENG + 7 / RUS] (2021, TPS) (1.96-1 + 6 DLC) [GOG]",
         "magnet:?xt=urn:btih:6D3949C0F1697CA5E65FE9137A5C69CB31FEE6F1&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Tunguska: The Visitation - Enhanced Edition / Тунгуска: Посещение [L] [RUS + ENG + 7 / RUS] (2021, TPS) (1.96-5 + 6 DLC) [GOG]",
         "magnet:?xt=urn:btih:DDD46CE1BF5B4B8C4A2E6865CFC738E5B48849F0&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Tunguska: The Visitation - Enhanced Edition / Тунгуска: Посещение [L] [RUS + ENG + 7 / RUS] (2021, TPS) (1.96-9 + 6 DLC) [GOG]",
-        "magnet:?xt=urn:btih:A8C3E6EBF1AFF7DA4EAAD6AD8623F668A74541F6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Tunguska: The Visitation - Enhanced Edition / Тунгуска: Посещение [L] [RUS + ENG + 7 / RUS] (2021, TPS) (1.97 + 6 DLC) [GOG]"
+        "magnet:?xt=urn:btih:A8C3E6EBF1AFF7DA4EAAD6AD8623F668A74541F6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Tunguska: The Visitation - Enhanced Edition / Тунгуска: Посещение [L] [RUS + ENG + 7 / RUS] (2021, TPS) (1.97 + 6 DLC) [GOG]",
+        "magnet:?xt=urn:btih:CB15D770774FB46523E728481D720963B9A3F044&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Tunguska: The Visitation - Enhanced Edition / Тунгуска: Посещение [L] [RUS + ENG + 7 / RUS] (2021, TPS) (1.97.3 + 6 DLC) [GOG]"
       ]
     },
     {
@@ -48021,15 +48054,16 @@
       ]
     },
     {
-      "title": "Wigmund v1.4.5",
+      "title": "Wigmund v1.4.7",
       "uploadDate": "2022-12-25T00:20:14+00:00",
-      "fileSize": "1.90 GB",
+      "fileSize": "1.94 GB",
       "uris": [
         "magnet:?xt=urn:btih:03DA937CF9AE372D4BE6770614CDD4AE588F23AA&dn=Wigmund_1.2.5_(62123)_win_gog",
         "magnet:?xt=urn:btih:E0F6DE02A5CC6F4A64D157D9A0807113E2222320&dn=Wigmund_1.2.5.1_(62241)_win_gog",
         "magnet:?xt=urn:btih:0d3f9c51b7445ed107f63e3a5ca5fcf9e240bd89&dn=Wigmund_1.3.3.1_(63206)_win_gog",
         "magnet:?xt=urn:btih:1F02E07AD78CB0BF05515B70DA20AA2E0E0BE7CF&tr=http://bt.t-ru.org/ann?magnet&dn=Wigmund [L] [ENG / ENG] (2022) (1.4.1) [GOG]",
-        "magnet:?xt=urn:btih:5c87dfd1489565ceaaa65945018846a6fbee3689&dn=Wigmund_1.4.5_(64bit)_(73952)_win_gog&tr=https://tracker.renfei.net:443/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:5c87dfd1489565ceaaa65945018846a6fbee3689&dn=Wigmund_1.4.5_(64bit)_(73952)_win_gog&tr=https://tracker.renfei.net:443/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce",
+        "magnet:?xt=urn:btih:5112F3EB68470557313A9EE7BFC2EB4BEE5E9999&tr=http://bt.t-ru.org/ann?magnet&dn=[DL] Wigmund [L] [ENG / ENG] (2022, RPG) (1.4.7) [GOG]"
       ]
     },
     {
