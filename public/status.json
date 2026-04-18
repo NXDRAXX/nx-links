@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T20:20:56.052Z",
-  "runId": "24584562711",
-  "runNumber": 15,
+  "generatedAt": "2026-04-18T06:04:15.183Z",
+  "runId": "24598273983",
+  "runNumber": 16,
   "repository": "NXDRAXX/nx-links",
-  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24584562711",
+  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24598273983",
   "sources": [
     {
       "key": "steamrip",
@@ -11,8 +11,8 @@
       "file": "steamrip.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1933,
-      "dataUpdatedAt": "2026-04-17T20:20:56.063Z"
+      "entries": 1932,
+      "dataUpdatedAt": "2026-04-18T06:04:15.187Z"
     },
     {
       "key": "fitgirl",
@@ -20,8 +20,8 @@
       "file": "fitgirl.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 6611,
-      "dataUpdatedAt": "2026-04-17T20:20:56.103Z"
+      "entries": 6621,
+      "dataUpdatedAt": "2026-04-18T06:04:15.222Z"
     },
     {
       "key": "freegog",
@@ -30,7 +30,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 5364,
-      "dataUpdatedAt": "2026-04-17T20:20:56.117Z"
+      "dataUpdatedAt": "2026-04-18T06:04:15.233Z"
     },
     {
       "key": "onlinefix",
@@ -39,7 +39,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 2246,
-      "dataUpdatedAt": "2026-04-17T20:20:56.121Z"
+      "dataUpdatedAt": "2026-04-18T06:04:15.237Z"
     },
     {
       "key": "onlinefix-fixes",
@@ -56,8 +56,8 @@
       "file": "iggames.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1117,
-      "dataUpdatedAt": "2026-04-17T20:20:56.129Z"
+      "entries": 1122,
+      "dataUpdatedAt": "2026-04-18T06:04:15.243Z"
     },
     {
       "key": "rexagames",
@@ -66,7 +66,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3025,
-      "dataUpdatedAt": "2026-04-17T20:20:56.133Z"
+      "dataUpdatedAt": "2026-04-18T06:04:15.247Z"
     }
   ],
   "summary": {
