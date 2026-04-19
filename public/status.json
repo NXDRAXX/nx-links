@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-19T14:38:41.322Z",
-  "runId": "24631335104",
-  "runNumber": 21,
+  "generatedAt": "2026-04-19T20:08:34.652Z",
+  "runId": "24637780288",
+  "runNumber": 22,
   "repository": "NXDRAXX/nx-links",
-  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24631335104",
+  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24637780288",
   "sources": [
     {
       "key": "steamrip",
@@ -11,8 +11,8 @@
       "file": "steamrip.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1935,
-      "dataUpdatedAt": "2026-04-19T14:38:41.335Z"
+      "entries": 1940,
+      "dataUpdatedAt": "2026-04-19T20:08:35.015Z"
     },
     {
       "key": "fitgirl",
@@ -21,7 +21,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 6626,
-      "dataUpdatedAt": "2026-04-19T14:38:41.378Z"
+      "dataUpdatedAt": "2026-04-19T20:08:35.055Z"
     },
     {
       "key": "freegog",
@@ -30,16 +30,16 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 5364,
-      "dataUpdatedAt": "2026-04-19T14:38:41.393Z"
+      "dataUpdatedAt": "2026-04-19T20:08:35.069Z"
     },
     {
       "key": "onlinefix",
       "name": "OnlineFix",
       "file": "onlinefix.json",
-      "updatedThisRun": false,
-      "status": "stale",
-      "entries": 2246,
-      "dataUpdatedAt": null
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 2252,
+      "dataUpdatedAt": "2026-04-19T20:08:35.073Z"
     },
     {
       "key": "onlinefix-fixes",
@@ -56,22 +56,22 @@
       "file": "iggames.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1153,
-      "dataUpdatedAt": "2026-04-19T14:38:41.407Z"
+      "entries": 1161,
+      "dataUpdatedAt": "2026-04-19T20:08:35.082Z"
     },
     {
       "key": "rexagames",
       "name": "RexaGames",
       "file": "rexagames.json",
-      "updatedThisRun": false,
-      "status": "stale",
+      "updatedThisRun": true,
+      "status": "healthy",
       "entries": 3025,
-      "dataUpdatedAt": null
+      "dataUpdatedAt": "2026-04-19T20:08:35.086Z"
     }
   ],
   "summary": {
-    "healthy": 4,
-    "stale": 2,
+    "healthy": 6,
+    "stale": 0,
     "failed": 1
   }
 }
