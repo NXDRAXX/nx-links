@@ -3775,6 +3775,15 @@
       ]
     },
     {
+      "title": "Bastion v1.50436",
+      "uploadDate": "2016-03-28T00:52:52+00:00",
+      "fileSize": "1.77 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:941DCACE96F542B1F9F7AB55FF51A27352A97EB9&dn=bastion+v2+0+0+6+gog+adamantalias&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce",
+        "magnet:?xt=urn:btih:e15d2ac42ee727126b9321e4d8cfb76f9fb36a48&tr=http://bt02.nnm-club.cc:2710/00d44f740a8037721ea36e1eb973f6ec/announce&tr=http://bt02.nnm-club.cc:2710/00d44f740a8037721ea36e1eb973f6ec/announce"
+      ]
+    },
+    {
       "title": "Batbarian: Testament of the Primordials v1.4.4",
       "uploadDate": "2020-10-17T15:37:35+00:00",
       "fileSize": "1.45 GB",
@@ -6791,6 +6800,14 @@
       ]
     },
     {
+      "title": "Causal Loop",
+      "uploadDate": "2026-04-24T14:58:58+00:00",
+      "fileSize": "7.31 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:11230DF02DBF2652F9152869E5B893BD8892DF40&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Causal Loop [L] [RUS + ENG + 7 / ENG + 1] (2026, Adventure) (cl-1.0-2026-04-23) [GOG]"
+      ]
+    },
+    {
       "title": "Cave Story’s Secret Santa",
       "uploadDate": "2021-12-24T14:58:06+00:00",
       "fileSize": "64.6 MB",
@@ -7509,6 +7526,14 @@
       "fileSize": "1002.3 MB",
       "uris": [
         "magnet:?xt=urn:btih:a44ee424e3176e60a5f384d00263aab79d402d9a&dn=Clickolding_v1_(77473)_win_gog&tr=udp://open.tracker.cl:1337/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.stealth.si:80/announce"
+      ]
+    },
+    {
+      "title": "Clid the Snail",
+      "uploadDate": "2021-12-19T09:27:11+00:00",
+      "fileSize": "3.84 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b83a1e2be4a984df25d8b8be3b5b0267a2b2397a&tr=http://bt02.nnm-club.cc:2710/00d44f7414106622df70d25381b4e97c/announce&tr=http://bt02.nnm-club.cc:2710/00d44f7414106622df70d25381b4e97c/announce"
       ]
     },
     {
@@ -11722,7 +11747,7 @@
       ]
     },
     {
-      "title": "Dreadful River v1.0.7.0",
+      "title": "Dreadful River v1.0.8.0",
       "uploadDate": "2023-03-01T14:52:50+00:00",
       "fileSize": "10.81 GB",
       "uris": [
@@ -11732,7 +11757,8 @@
         "magnet:?xt=urn:btih:6D935107431A9392A87AADC4644710D44E052E5A&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL][В разработке] Dreadful River [L] [ENG / ENG] (2023, TPA) (0.9.1.0) [GOG]",
         "magnet:?xt=urn:btih:D23523258E25621CEA003A5443000E305223F91D&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dreadful River [L] [ENG / ENG] (2026, TPA) (1.0.2.0) [GOG]",
         "magnet:?xt=urn:btih:4B6CDBFDCE694103565F123516F619EBC537054D&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dreadful River [L] [ENG / ENG] (2026, TPA) (1.0.5.0) [GOG]",
-        "magnet:?xt=urn:btih:2023D77EB5ECEF552F576975FB4BC112875335B6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dreadful River [L] [ENG / ENG] (2026, TPA) (1.0.7.0) [GOG]"
+        "magnet:?xt=urn:btih:2023D77EB5ECEF552F576975FB4BC112875335B6&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dreadful River [L] [ENG / ENG] (2026, TPA) (1.0.7.0) [GOG]",
+        "magnet:?xt=urn:btih:45C198F62027C6CBC3B6881BF0E35F86B388240B&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Dreadful River [L] [ENG / ENG] (2026, TPA) (1.0.8.0) [GOG]"
       ]
     },
     {
@@ -15154,9 +15180,9 @@
       ]
     },
     {
-      "title": "Formula Legends v99597 +5DLC",
+      "title": "Formula Legends v90040+7DLC",
       "uploadDate": "2025-09-28T04:23:11+00:00",
-      "fileSize": "8.39 GB",
+      "fileSize": "9.07 GB",
       "uris": [
         "magnet:?xt=urn:btih:6ebc3db92223870780814947cd3b3a823bcc66a2&dn=formula_legends_85186&xl=6991083778&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://ttk2.nbaonlineservice.com:6969/announce&tr=udp://tracker2.dler.org:80/announce&tr=udp://tracker.tryhackx.org:6969/announce&tr=udp://tracker.therarbg.to:6969/announce&tr=udp://tracker.plx.im:6969/announce&tr=udp://tracker.fnix.net:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tr4ck3r.duckdns.org:6969/announce&tr=udp://t.overflow.biz:6969/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://ipv4announce.sktorrent.eu:6969/announce&tr=udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce&tr=udp://bandito.byterunner.io:6969/announce&tr=udp://6ahddutb1ucc3cp.ru:6969/announce&tr=udp://1c.premierzal.ru:6969/announce&tr=https://tracker.zhuqiy.top:443/announce&tr=https://tracker.yemekyedim.com:443/announce&tr=https://tracker.moeblog.cn:443/announce&tr=https://tracker.leechshield.link:443/announce&tr=https://tracker.gcrenwp.top:443/announce&tr=https://tracker.bt4g.com:443/announce&tr=http://tracker2.dler.org:80/announce&tr=http://tracker.zhuqiy.top:80/announce&tr=http://tracker.waaa.moe:6969/announce&tr=udp://tracker.valete.tf:9999/announce&tr=http://tracker.renfei.net:8080/announce&tr=http://tracker.mywaifu.best:6969/announce&tr=http://tracker.ipv6tracker.org:80/announce&tr=http://tracker.dmcomic.org:2710/announce&tr=http://tracker.corpscorp.online:80/announce&tr=http://tracker.23794.top:6969/announce&tr=http://t.overflow.biz:6969/announce&tr=http://share.hkg-fansub.info:80/announce.php&tr=http://servandroidkino.ru:80/announce&tr=http://retracker.spark-rostov.ru:80/announce&tr=http://p4p.arenabg.com:1337/announce&tr=http://open.trackerlist.xyz:80/announce&tr=http://home.yxgz.club:6969/announce&tr=http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce&tr=http://0d.kebhana.mx:443/announce&tr=http://tracker.valete.tf:9999/announce&tr=udp://tracker.dler.org:6969/announce&tr=http://ipv4.rer.lol:2710/announce&tr=https://tracker.ghostchu-services.top:443/announce&tr=http://wepzone.net:6969/announce",
         "magnet:?xt=urn:btih:A85047F7786A7EC2A325B16C0A8E6061F412A6D8&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (1.0.8 + 2 DLC) [GOG]",
@@ -15165,7 +15191,8 @@
         "magnet:?xt=urn:btih:1E754222AFEAE72BB98D24E7F5F900A76C6C7491&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (95256 + 5 DLC) [GOG]",
         "magnet:?xt=urn:btih:DEB15D8379ABF46198D80509BC7087A918DF9756&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (98358 + 5 DLC) [GOG]",
         "magnet:?xt=urn:btih:86D1239FB1F00D559335FD52B357DFBD955EEC22&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (98523 + 5 DLC) [GOG]",
-        "magnet:?xt=urn:btih:641A90273D673E2EE8087342EA042B076ED6D9D1&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (99597 + 5 DLC) [GOG]"
+        "magnet:?xt=urn:btih:641A90273D673E2EE8087342EA042B076ED6D9D1&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (99597 + 5 DLC) [GOG]",
+        "magnet:?xt=urn:btih:D3DC4AE2B321B672DC39181D7000639DACB881AE&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Formula Legends [L] [ENG + 11 / ENG] (2025, Racing, Arcade) (90040 + 7 DLC) [GOG]"
       ]
     },
     {
@@ -18113,12 +18140,13 @@
       ]
     },
     {
-      "title": "Heroes of Might and Magic III: Complete (v4.0)",
+      "title": "Heroes of Might and Magic III: Complete v4.0 (3.2) GOG 0.1",
       "uploadDate": "2016-02-01T12:23:20+00:00",
-      "fileSize": "1.95 GB",
+      "fileSize": "3.68 GB",
       "uris": [
         "magnet:?xt=urn:btih:DD48177A84474DD869212D9E8934CC894ECB3A4B&dn=heroes+of+might+and+magic+iii+2+0+0+16+patch+2+0+1+17+gog&tr=udp://tracker.istole.it:80/announce&tr=udp://glotorrents.pw:6969/announce",
-        "magnet:?xt=urn:btih:FFCBF89E77227DFC9A7AF5393159892B7975D8BB&dn=Heroes of Might and Magic III (3): Complete [L] [RUS + ENG / RUS + ENG] (1999) (4.0) [GOG]"
+        "magnet:?xt=urn:btih:FFCBF89E77227DFC9A7AF5393159892B7975D8BB&dn=Heroes of Might and Magic III (3): Complete [L] [RUS + ENG / RUS + ENG] (1999) (4.0) [GOG]",
+        "magnet:?xt=urn:btih:7bb141c30c85689e2b98470c06f1f50644a14c3c&dn=3. Heroes of Might and Magic 3 - Complete&xl=3948941607&tr=http://bt.searchtor.to/00d44f749ea575ee1c11afc3a5a392df/announce&tr=http://[2001:470:25:482::2]/00d44f749ea575ee1c11afc3a5a392df/announce&tr=http://bt02.nnm-club.cc:2710/00d44f749ea575ee1c11afc3a5a392df/announce&tr=http://retracker.local/announce.php?size=3948941607&comment=http%3A%2F%2Fnnmclub.to%2Fforum%2Fviewtopic.php%3Fp%3D8723538&name=Heroes+of+Might+and+Magic+III+%281999%29+%5BRu%2FMulti%5D+%284.0%2Fdlc%29+License+GOG+%5BComplete+Edition%5D&tr=http://ipv6.bt.searchtor.to/00d44f749ea575ee1c11afc3a5a392df/announce&tr=http://bt02.ipv6.nnm-club.cc:2710/00d44f749ea575ee1c11afc3a5a392df/announce"
       ]
     },
     {
@@ -25653,16 +25681,17 @@
       ]
     },
     {
-      "title": "Monsters are Coming! Rock & Road v1.1.3.0",
+      "title": "Monsters are Coming! Rock & Road v1.3.4.2+DLC",
       "uploadDate": "2025-11-24T12:54:05+00:00",
-      "fileSize": "407.5 MB",
+      "fileSize": "459.3 MB",
       "uris": [
         "magnet:?xt=urn:btih:C5E5C7821C5DDC616B5C9E2580D564DB9FDFAA2C&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.0.4.0) [GOG]",
         "magnet:?xt=urn:btih:21EA40B9A6E5834B9CD7FC2A513ADC732904B5D9&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.0.10.0) [GOG]",
         "magnet:?xt=urn:btih:4C4275F07C307F10F8C784D8C7FB23BCAD281EC1&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.0.12.0) [GOG]",
         "magnet:?xt=urn:btih:B593B85FBF47B2B6C7F02EA833DD1C58ECA19E58&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.0.15.0) [GOG]",
         "magnet:?xt=urn:btih:8DB594FD83A00F3C90F4F8B68B35DAAB1EACC52F&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.1.2.0) [GOG]",
-        "magnet:?xt=urn:btih:A2A562411BF5444AA9C788AED4B47E2B4BE86B5B&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.1.3.0) [GOG]"
+        "magnet:?xt=urn:btih:A2A562411BF5444AA9C788AED4B47E2B4BE86B5B&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.1.3.0) [GOG]",
+        "magnet:?xt=urn:btih:2B4C032C507D08794F783B5CDF50BE65987B78F8&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Monsters are Coming! Rock and Road [L] [RUS + ENG + 9] (2025, RTS) (1.3.4.2 + 1 DLC) [GOG]"
       ]
     },
     {
@@ -44016,6 +44045,14 @@
       ]
     },
     {
+      "title": "Tides of Tomorrow",
+      "uploadDate": "2026-04-24T14:15:18+00:00",
+      "fileSize": "10.88 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:AF273946540A0A4C3F97BA8FC855769465E388E8&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Tides of Tomorrow [L] [RUS + ENG + 9 / ENG] (2026, Adventure) (1.0a + 1 DLC) [GOG]"
+      ]
+    },
+    {
       "title": "Timberborn v1.0.12.10+DLC",
       "uploadDate": "2021-09-16T10:13:34+00:00",
       "fileSize": "1.59 GB",
@@ -45621,7 +45658,7 @@
       ]
     },
     {
-      "title": "UBOAT v2026.1 Patch 4+2DLC",
+      "title": "UBOAT v2026.1 Patch 8+2DLC",
       "uploadDate": "2019-10-08T12:18:07+00:00",
       "fileSize": "38.4 GB",
       "uris": [
@@ -45632,7 +45669,8 @@
         "magnet:?xt=urn:btih:045B8B2966A77A0CB2662FB7131F09687AD95348&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Uboat / Uboot [L] [RUS + ENG + 12 / ENG + 1] (2024, Simulation) (2025.1.1 Patch 4) [GOG]",
         "magnet:?xt=urn:btih:7E7B17D2768E8501498BFC58A5DE92820E6A78B9&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Uboat / Uboot [L] [RUS + ENG + 12 / ENG + 1] (2024, Simulation) (2025.1.1 Patch 4 + 1 DLC) [GOG]",
         "magnet:?xt=urn:btih:EE3F661A977071FA7DA085A5F30CD52375B6E658&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Uboat / Uboot [L] [RUS + ENG + 12 / ENG + 1] (2024, Simulation) (2026.1 Patch 1 + 2 DLC) [GOG]",
-        "magnet:?xt=urn:btih:DF63009F60213475F5AD42BA89A1124BF9378E26&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Uboat / Uboot [L] [RUS + ENG + 12 / ENG + 1] (2024, Simulation) (2026.1 Patch 4 + 2 DLC) [GOG]"
+        "magnet:?xt=urn:btih:DF63009F60213475F5AD42BA89A1124BF9378E26&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Uboat / Uboot [L] [RUS + ENG + 12 / ENG + 1] (2024, Simulation) (2026.1 Patch 4 + 2 DLC) [GOG]",
+        "magnet:?xt=urn:btih:0A4B7C9E26CE44B971FDDAB07137CAE5D0DA72DD&tr=http://bt2.t-ru.org/ann?magnet&dn=[DL] Uboat / Uboot [L] [RUS + ENG + 12 / ENG + 1] (2024, Simulation) (2026.1 Patch 8 + 2 DLC) [GOG]"
       ]
     },
     {
@@ -45940,6 +45978,17 @@
       "fileSize": "1.35 GB",
       "uris": [
         "magnet:?xt=urn:btih:A8E9DC8EB1D68140C44F81B3D3FCB6B3B7F04CCE&dn=UNDETECTED_1.0_(59048)_win_gog"
+      ]
+    },
+    {
+      "title": "Undungeon v1.0.12",
+      "uploadDate": "2021-11-20T09:47:56+00:00",
+      "fileSize": "1.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fbbae22bd5ac85ac0e05f78d614e577eb5ad7d88&tr=http://bt02.nnm-club.cc:2710/00d44f74be51dc052fddb144e006ebc9/announce&tr=http://bt02.nnm-club.cc:2710/00d44f74be51dc052fddb144e006ebc9/announce",
+        "magnet:?xt=urn:btih:46A748D1DFDA2416C84BA93A21981FF8E32A3455&dn=Undungeon [L] [RUS + ENG] (2021) (1.0.5) [GOG]",
+        "magnet:?xt=urn:btih:D692731690181105DE1292837C6261261C655EB4&dn=Undungeon [L] [RUS + ENG] (2021) (1.0.10) [GOG]",
+        "magnet:?xt=urn:btih:CF7C109D97CEE007F1FE6E92FC23A778E615CF90&tr=http://bt3.t-ru.org/ann?magnet&dn=Undungeon [L] [RUS + ENG] (2021) (1.0.12) [GOG]"
       ]
     },
     {
@@ -47560,9 +47609,9 @@
       ]
     },
     {
-      "title": "Wartales (1.0.45961 +7DLC)",
+      "title": "Wartales v1.0.46804+8DLC",
       "uploadDate": "2023-04-26T17:07:33+00:00",
-      "fileSize": "19.79 GB",
+      "fileSize": "20.52 GB",
       "uris": [
         "magnet:?xt=urn:btih:9AB15E894AE2A2B4279CE50E9237147C69F075E6&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.41284 + 5 DLC) [GOG]",
         "magnet:?xt=urn:btih:D5BB9CCCF8460CD29A66A471FB7F73A9E008DBFF&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.41340 + 5 DLC) [GOG]",
@@ -47575,7 +47624,8 @@
         "magnet:?xt=urn:btih:1627a733079cde7f39c485452f1121e07398ee73&dn=wartales_85982&xl=17631730140&tr=udp://public.demonoid.ch:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://ttk2.nbaonlineservice.com:6969/announce&tr=udp://tracker.plx.im:6969/announce&tr=udp://tr4ck3r.duckdns.org:6969/announce&tr=udp://t.overflow.biz:6969/announce&tr=udp://retracker01-msk-virt.corbina.net:80/announce&tr=udp://retracker.lanta.me:2710/announce&tr=udp://public.tracker.vraphim.com:6969/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://opentracker.io:6969/announce",
         "magnet:?xt=urn:btih:8047491761D8D28E98554F1C013D3845A42F29F9&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.45242 + 7 DLC) [GOG]",
         "magnet:?xt=urn:btih:625FDF86E8A87A32520F308A0F7082A5FD377CD4&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.45622 + 7 DLC) [GOG]",
-        "magnet:?xt=urn:btih:4FB34CD024358437BD26806F48723F01B2D2E92F&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.45961 + 7 DLC) [GOG]"
+        "magnet:?xt=urn:btih:4FB34CD024358437BD26806F48723F01B2D2E92F&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.45961 + 7 DLC) [GOG]",
+        "magnet:?xt=urn:btih:78F8E5A706B0C50C60607474C85B3E407818C207&tr=http://bt3.t-ru.org/ann?magnet&dn=[DL] Wartales [L] [RUS + ENG + 6] (2023, RPG) (1.0.46804 + 8 DLC) [GOG]"
       ]
     },
     {

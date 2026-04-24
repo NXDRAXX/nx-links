@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-24T06:41:07.897Z",
-  "runId": "24875764460",
-  "runNumber": 35,
+  "generatedAt": "2026-04-24T16:05:03.012Z",
+  "runId": "24898759820",
+  "runNumber": 36,
   "repository": "NXDRAXX/nx-links",
-  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24875764460",
+  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/24898759820",
   "sources": [
     {
       "key": "steamrip",
@@ -11,8 +11,8 @@
       "file": "steamrip.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1945,
-      "dataUpdatedAt": "2026-04-24T06:41:07.910Z"
+      "entries": 1944,
+      "dataUpdatedAt": "2026-04-24T16:05:03.080Z"
     },
     {
       "key": "fitgirl",
@@ -21,7 +21,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 6643,
-      "dataUpdatedAt": "2026-04-24T06:41:07.951Z"
+      "dataUpdatedAt": "2026-04-24T16:05:03.136Z"
     },
     {
       "key": "freegog",
@@ -29,8 +29,8 @@
       "file": "freegog.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 5364,
-      "dataUpdatedAt": "2026-04-24T06:41:07.974Z"
+      "entries": 5369,
+      "dataUpdatedAt": "2026-04-24T16:05:03.155Z"
     },
     {
       "key": "onlinefix",
@@ -38,8 +38,8 @@
       "file": "onlinefix.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 2262,
-      "dataUpdatedAt": "2026-04-24T06:41:07.981Z"
+      "entries": 2263,
+      "dataUpdatedAt": "2026-04-24T16:05:03.160Z"
     },
     {
       "key": "onlinefix-fixes",
@@ -56,8 +56,8 @@
       "file": "iggames.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1278,
-      "dataUpdatedAt": "2026-04-24T06:41:07.992Z"
+      "entries": 1297,
+      "dataUpdatedAt": "2026-04-24T16:05:03.173Z"
     },
     {
       "key": "rexagames",
@@ -66,7 +66,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3025,
-      "dataUpdatedAt": "2026-04-24T06:41:07.997Z"
+      "dataUpdatedAt": "2026-04-24T16:05:03.178Z"
     }
   ],
   "summary": {
