@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-01T21:22:34.695Z",
-  "runId": "25233266655",
-  "runNumber": 58,
+  "generatedAt": "2026-05-02T12:36:31.152Z",
+  "runId": "25245858866",
+  "runNumber": 59,
   "repository": "NXDRAXX/nx-links",
-  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/25233266655",
+  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/25245858866",
   "sources": [
     {
       "key": "steamrip",
@@ -11,26 +11,26 @@
       "file": "steamrip.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1964,
-      "dataUpdatedAt": "2026-05-01T21:22:34.808Z"
+      "entries": 1971,
+      "dataUpdatedAt": "2026-05-02T12:36:31.256Z"
     },
     {
       "key": "fitgirl",
       "name": "FitGirl",
       "file": "fitgirl.json",
-      "updatedThisRun": true,
-      "status": "healthy",
+      "updatedThisRun": false,
+      "status": "stale",
       "entries": 6666,
-      "dataUpdatedAt": "2026-05-01T21:22:34.866Z"
+      "dataUpdatedAt": null
     },
     {
       "key": "freegog",
       "name": "FreeGOG",
       "file": "freegog.json",
-      "updatedThisRun": true,
-      "status": "healthy",
+      "updatedThisRun": false,
+      "status": "stale",
       "entries": 5372,
-      "dataUpdatedAt": "2026-05-01T21:22:34.885Z"
+      "dataUpdatedAt": null
     },
     {
       "key": "onlinefix",
@@ -39,7 +39,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 2273,
-      "dataUpdatedAt": "2026-05-01T21:22:34.890Z"
+      "dataUpdatedAt": "2026-05-02T12:36:31.315Z"
     },
     {
       "key": "onlinefix-fixes",
@@ -56,8 +56,8 @@
       "file": "iggames.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1544,
-      "dataUpdatedAt": "2026-05-01T21:22:34.906Z"
+      "entries": 1550,
+      "dataUpdatedAt": "2026-05-02T12:36:31.325Z"
     },
     {
       "key": "rexagames",
@@ -66,12 +66,12 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3025,
-      "dataUpdatedAt": "2026-05-01T21:22:34.912Z"
+      "dataUpdatedAt": "2026-05-02T12:36:31.330Z"
     }
   ],
   "summary": {
-    "healthy": 6,
-    "stale": 0,
+    "healthy": 4,
+    "stale": 2,
     "failed": 1
   }
 }
